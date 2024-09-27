@@ -17,3 +17,12 @@ This project---------------------------
     - Structyured Query Language for querying of Data
 - Github
     - for portfolio building.
+ 
+  ### Data Cleaning and Preparation
+
+  ### Data Analysis
+  ---
+  ```SQL
+  SELECT * FROM TABLE1
+  WHERE CONDITION = TRUE
+  ```
