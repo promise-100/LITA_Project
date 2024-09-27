@@ -26,3 +26,7 @@ This project---------------------------
   SELECT * FROM TABLE1
   WHERE CONDITION = TRUE
   ```
+
+  |Heading 1|Heading 2|Hading 3|
+  |---------|---------|--------|
+  |Table 1|Table 2|Table 3|
