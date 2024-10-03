@@ -34,6 +34,8 @@ The primary source of data used in this project is Data.Sales.CSV and this is an
 
  ### Data Visualization
  
+ ![Sales Dashboard](https://github.com/user-attachments/assets/59393654-085d-4dcd-ac12-cf6b622b4c9c)
+
 
  ### Data Analysis
   ---
@@ -42,6 +44,4 @@ The primary source of data used in this project is Data.Sales.CSV and this is an
   WHERE CONDITION = TRUE
   ```
 
-  |Heading 1|Heading 2|Hading 3|
-  |---------|---------|--------|
-  |Table 1|Table 2|Table 3|
+  
