@@ -37,11 +37,15 @@ The primary source of data used in this project is Data.Sales.CSV and this is an
  ![Sales Dashboard](https://github.com/user-attachments/assets/59393654-085d-4dcd-ac12-cf6b622b4c9c)
 
 
- ### Data Analysis
-  ---
-  ```SQL
-  SELECT * FROM TABLE1
-  WHERE CONDITION = TRUE
-  ```
+ ### Key Findings
+ The analysis results are summarized as follows
+  - Provide sales incentives for underperforming region,model and line of business.
+  - Targeted marketing campaigns(social media).
+  - Review pricing strategies.
+  - Research competotors strategies.
+  - Training session for sales team.
+
+
+  
 
   
