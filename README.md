@@ -45,6 +45,16 @@ The primary source of data used in this project is Data.Sales.CSV and this is an
   - Research competotors strategies.
   - Training session for sales team.
 
+ ### Actionable Recommendation
+ Based on the analysis,we recommend the following actions
+  - Provide sales incentives for underperforming region,model and line of business.
+  - Targeted marketing campaigns(social media).
+  - Review pricing strategies.
+  - Research competotors strategies.
+  - Training session for sales team.
+
+
+
 
   
 
