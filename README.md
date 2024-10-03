@@ -3,7 +3,8 @@
 ### Project Title: E commerce Sales Analysis
 
 ### Project Overview
-This project---------------------------
+This data analysis project aims to generate insight into the sales performance of the E-commerce company over the past year.
+By analyzing various aspects of this data, we seek to identify trends, make data-driven recommendations and gain a deeper understanding of the company's performance.
 
 ### Data Sources
 --------------
