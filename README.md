@@ -54,6 +54,13 @@ The primary source of data used in this project is Data.Sales.CSV and this is an
   - What model is on peak sales.
   - What are the low performing models, line of business as well as low performing region.
 
+ ### Data Analysis
+ This includes some queries i worked with during the analysis. Example:
+   ```SQL
+      SELECT * FROM SALES
+      WHERE REGION = 'NORTH EAST'
+   ```
+
  ### Data Visualization
  ---
  ![Sales Dashboard](https://github.com/user-attachments/assets/59393654-085d-4dcd-ac12-cf6b622b4c9c)
