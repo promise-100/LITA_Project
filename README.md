@@ -13,6 +13,8 @@
 
  [Exploratory Data Analysis](#exploratory-data-analysis)
 
+ [Data Analysis](#data-analysis)
+
  [Data Visualization](#data-visualization)
  
  [Key Findings](#key-findings)
